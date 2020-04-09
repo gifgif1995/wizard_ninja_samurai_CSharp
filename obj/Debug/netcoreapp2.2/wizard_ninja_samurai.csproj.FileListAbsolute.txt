@@ -1,0 +1,11 @@
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/bin/Debug/netcoreapp2.2/wizard_ninja_samurai.deps.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/bin/Debug/netcoreapp2.2/wizard_ninja_samurai.runtimeconfig.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/bin/Debug/netcoreapp2.2/wizard_ninja_samurai.runtimeconfig.dev.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/bin/Debug/netcoreapp2.2/wizard_ninja_samurai.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/bin/Debug/netcoreapp2.2/wizard_ninja_samurai.pdb
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/obj/Debug/netcoreapp2.2/wizard_ninja_samurai.csprojAssemblyReference.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/obj/Debug/netcoreapp2.2/wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/obj/Debug/netcoreapp2.2/wizard_ninja_samurai.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/obj/Debug/netcoreapp2.2/wizard_ninja_samurai.AssemblyInfo.cs
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/obj/Debug/netcoreapp2.2/wizard_ninja_samurai.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/wizard_ninja_samurai/obj/Debug/netcoreapp2.2/wizard_ninja_samurai.pdb
